@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "position": "Java developer",
+    "location": "Ciputih",
+    "mode": "part-time",
+    "createdAt": "2025-01-25T22:58:21Z",
+    "tags": "IT / Software Development > Java Developer",
+    "pay": "$65,000 - $75,000AUD",
+    "description": "We are currently recruiting on behalf of our client, Gr8phics, a renowned Mint specializing in collector coins and corporate activities. Gr8phics is seeking a creative and dynamic Junior Graphic Designer to join their team and contribute to the development of packaging, promotional materials, exhibition graphics, and reports.",
+    "responsibilities": [
+      {
+        "title": "Process Improvement and Design Innovation",
+        "details": [
+          "Contribute to the continuous improvement of design processes and practices.",
+          "Identify and incorporate current design trends to enhance the team's creative output."
+        ]
+      },
+      {
+        "title": "Collaborative Design Development",
+        "details": [
+          "Work closely with the Lead Designer, design team, internal and external clients, and suppliers.",
+          "Assist in the conceptualization, design, and production of diverse materials, including packaging, promotional items, exhibition graphics, and reports."
+        ]
+      },
+      {
+        "title": "Creative Design Solutions",
+        "details": [
+          "Produce creative design solutions while applying technical skills to ensure suitability for print and/or digital formats."
+        ]
+      },
+      {
+        "title": "Print Coordination",
+        "details": [
+          "Assist the team in liaising with printers and suppliers.",
+          "Provide print specifications and meticulously check printers’ proofs."
+        ]
+      }
+    ],
+    "qualifications": [
+      "A relevant qualification in Graphic Design or a related field.",
+      "Familiarity with the Adobe Creative Suite of professional tools."
+    ],
+    "experience": [
+      "Suitable for recent graduates or designers with less than 5 years of experience."
+    ],
+    "security_clearance": [
+      "This position requires a baseline security clearance.",
+      "The successful applicant will be required to obtain and maintain a clearance at this level."
+    ],
+    "how_to_apply": [
+      "A current resume.",
+      "A one-page pitch describing how your skills meet the requirements of the role as detailed in the position description.",
+      "A current portfolio showcasing your design work."
+    ],
+    "equal_opportunity": "We are committed to creating a diverse and inclusive workplace. Gr8phics is an equal opportunity employer, and we look forward to welcoming qualified candidates to join their team. Apply now for the opportunity to contribute to the creative excellence of Gr8phics."
+  },
+  {
+    "id": 2,
+    "position": "Content Writer",
+    "location": "Golubac",
+    "mode": "internship",
+    "createdAt": "2025-01-31T23:03:44Z",
+    "tags": "Marketing / Media / Creative > Content Writer",
+    "pay": "$55,000 - $125,000AUD",
+    "description": "We are currently recruiting on behalf of our client, Gr8phics, a renowned Mint specializing in collector coins and corporate activities. Gr8phics is seeking a creative and dynamic Junior Graphic Designer to join their team and contribute to the development of packaging, promotional materials, exhibition graphics, and reports.",
+    "responsibilities": [
+      {
+        "title": "Process Improvement and Design Innovation",
+        "details": [
+          "Contribute to the continuous improvement of design processes and practices.",
+          "Identify and incorporate current design trends to enhance the team's creative output."
+        ]
+      },
+      {
+        "title": "Collaborative Design Development",
+        "details": [
+          "Work closely with the Lead Designer, design team, internal and external clients, and suppliers.",
+          "Assist in the conceptualization, design, and production of diverse materials, including packaging, promotional items, exhibition graphics, and reports."
+        ]
+      },
+      {
+        "title": "Creative Design Solutions",
+        "details": [
+          "Produce creative design solutions while applying technical skills to ensure suitability for print and/or digital formats."
+        ]
+      },
+      {
+        "title": "Print Coordination",
+        "details": [
+          "Assist the team in liaising with printers and suppliers.",
+          "Provide print specifications and meticulously check printers’ proofs."
+        ]
+      }
+    ],
+    "qualifications": [
+      "A relevant qualification in Graphic Design or a related field.",
+      "Familiarity with the Adobe Creative Suite of professional tools."
+    ],
+    "experience": [
+      "Suitable for recent graduates or designers with less than 5 years of experience."
+    ],
+    "security_clearance": [
+      "This position requires a baseline security clearance.",
+      "The successful applicant will be required to obtain and maintain a clearance at this level."
+    ],
+    "how_to_apply": [
+      "A current resume.",
+      "A one-page pitch describing how your skills meet the requirements of the role as detailed in the position description.",
+      "A current portfolio showcasing your design work."
+    ],
+    "equal_opportunity": "We are committed to creating a diverse and inclusive workplace. Gr8phics is an equal opportunity employer, and we look forward to welcoming qualified candidates to join their team. Apply now for the opportunity to contribute to the creative excellence of Gr8phics."
+  },
+  {
+    "id": 3,
+    "position": "React Developer",
+    "location": "Diapaga",
+    "mode": "part-time",
+    "createdAt": "2025-02-04T09:15:47Z",
+    "tags": "Frontend Development / JavaScript > React Developer",
+    "pay": "$45,000 - $90,000AUD",
+    "description": "We are currently recruiting on behalf of our client, Gr8phics, a renowned Mint specializing in collector coins and corporate activities. Gr8phics is seeking a creative and dynamic Junior Graphic Designer to join their team and contribute to the development of packaging, promotional materials, exhibition graphics, and reports.",
+    "responsibilities": [
+      {
+        "title": "Process Improvement and Design Innovation",
+        "details": [
+          "Contribute to the continuous improvement of design processes and practices.",
+          "Identify and incorporate current design trends to enhance the team's creative output."
+        ]
+      },
+      {
+        "title": "Collaborative Design Development",
+        "details": [
+          "Work closely with the Lead Designer, design team, internal and external clients, and suppliers.",
+          "Assist in the conceptualization, design, and production of diverse materials, including packaging, promotional items, exhibition graphics, and reports."
+        ]
+      },
+      {
+        "title": "Creative Design Solutions",
+        "details": [
+          "Produce creative design solutions while applying technical skills to ensure suitability for print and/or digital formats."
+        ]
+      },
+      {
+        "title": "Print Coordination",
+        "details": [
+          "Assist the team in liaising with printers and suppliers.",
+          "Provide print specifications and meticulously check printers’ proofs."
+        ]
+      }
+    ],
+    "qualifications": [
+      "A relevant qualification in Graphic Design or a related field.",
+      "Familiarity with the Adobe Creative Suite of professional tools."
+    ],
+    "experience": [
+      "Suitable for recent graduates or designers with less than 5 years of experience."
+    ],
+    "security_clearance": [
+      "This position requires a baseline security clearance.",
+      "The successful applicant will be required to obtain and maintain a clearance at this level."
+    ],
+    "how_to_apply": [
+      "A current resume.",
+      "A one-page pitch describing how your skills meet the requirements of the role as detailed in the position description.",
+      "A current portfolio showcasing your design work."
+    ],
+    "equal_opportunity": "We are committed to creating a diverse and inclusive workplace. Gr8phics is an equal opportunity employer, and we look forward to welcoming qualified candidates to join their team. Apply now for the opportunity to contribute to the creative excellence of Gr8phics."
+  },
+  {
+    "id": 4,
+    "position": "AWS Cloud Engineer",
+    "location": "Song",
+    "mode": "full-time",
+    "createdAt": "2025-01-09T23:16:52Z",
+    "tags": "DevOps / Serverless Architecture > AWS Cloud Engineer",
+    "pay": "$30,000 - $60,000AUD",
+    "description": "We are currently recruiting on behalf of our client, Gr8phics, a renowned Mint specializing in collector coins and corporate activities. Gr8phics is seeking a creative and dynamic Junior Graphic Designer to join their team and contribute to the development of packaging, promotional materials, exhibition graphics, and reports.",
+    "responsibilities": [
+      {
+        "title": "Process Improvement and Design Innovation",
+        "details": [
+          "Contribute to the continuous improvement of design processes and practices.",
+          "Identify and incorporate current design trends to enhance the team's creative output."
+        ]
+      },
+      {
+        "title": "Collaborative Design Development",
+        "details": [
+          "Work closely with the Lead Designer, design team, internal and external clients, and suppliers.",
+          "Assist in the conceptualization, design, and production of diverse materials, including packaging, promotional items, exhibition graphics, and reports."
+        ]
+      },
+      {
+        "title": "Creative Design Solutions",
+        "details": [
+          "Produce creative design solutions while applying technical skills to ensure suitability for print and/or digital formats."
+        ]
+      },
+      {
+        "title": "Print Coordination",
+        "details": [
+          "Assist the team in liaising with printers and suppliers.",
+          "Provide print specifications and meticulously check printers’ proofs."
+        ]
+      }
+    ],
+    "qualifications": [
+      "A relevant qualification in Graphic Design or a related field.",
+      "Familiarity with the Adobe Creative Suite of professional tools."
+    ],
+    "experience": [
+      "Suitable for recent graduates or designers with less than 5 years of experience."
+    ],
+    "security_clearance": [
+      "This position requires a baseline security clearance.",
+      "The successful applicant will be required to obtain and maintain a clearance at this level."
+    ],
+    "how_to_apply": [
+      "A current resume.",
+      "A one-page pitch describing how your skills meet the requirements of the role as detailed in the position description.",
+      "A current portfolio showcasing your design work."
+    ],
+    "equal_opportunity": "We are committed to creating a diverse and inclusive workplace. Gr8phics is an equal opportunity employer, and we look forward to welcoming qualified candidates to join their team. Apply now for the opportunity to contribute to the creative excellence of Gr8phics."
+  },
+  {
+    "id": 5,
+    "position": "Product Designer",
+    "location": "Pictou",
+    "mode": "part-time",
+    "createdAt": "2025-01-16T23:43:07Z",
+    "tags": "Design / Creative > Product Designer",
+    "pay": "$50,000 - $90,000AUD",
+    "description": "We are currently recruiting on behalf of our client, Gr8phics, a renowned Mint specializing in collector coins and corporate activities. Gr8phics is seeking a creative and dynamic Junior Graphic Designer to join their team and contribute to the development of packaging, promotional materials, exhibition graphics, and reports.",
+    "responsibilities": [
+      {
+        "title": "Process Improvement and Design Innovation",
+        "details": [
+          "Contribute to the continuous improvement of design processes and practices.",
+          "Identify and incorporate current design trends to enhance the team's creative output."
+        ]
+      },
+      {
+        "title": "Collaborative Design Development",
+        "details": [
+          "Work closely with the Lead Designer, design team, internal and external clients, and suppliers.",
+          "Assist in the conceptualization, design, and production of diverse materials, including packaging, promotional items, exhibition graphics, and reports."
+        ]
+      },
+      {
+        "title": "Creative Design Solutions",
+        "details": [
+          "Produce creative design solutions while applying technical skills to ensure suitability for print and/or digital formats."
+        ]
+      },
+      {
+        "title": "Print Coordination",
+        "details": [
+          "Assist the team in liaising with printers and suppliers.",
+          "Provide print specifications and meticulously check printers’ proofs."
+        ]
+      }
+    ],
+    "qualifications": [
+      "A relevant qualification in Graphic Design or a related field.",
+      "Familiarity with the Adobe Creative Suite of professional tools."
+    ],
+    "experience": [
+      "Suitable for recent graduates or designers with less than 5 years of experience."
+    ],
+    "security_clearance": [
+      "This position requires a baseline security clearance.",
+      "The successful applicant will be required to obtain and maintain a clearance at this level."
+    ],
+    "how_to_apply": [
+      "A current resume.",
+      "A one-page pitch describing how your skills meet the requirements of the role as detailed in the position description.",
+      "A current portfolio showcasing your design work."
+    ],
+    "equal_opportunity": "We are committed to creating a diverse and inclusive workplace. Gr8phics is an equal opportunity employer, and we look forward to welcoming qualified candidates to join their team. Apply now for the opportunity to contribute to the creative excellence of Gr8phics."
+  },
+  {
+    "id": 6,
+    "position": "Administration",
+    "location": "Cabak Satu",
+    "mode": "internship",
+    "createdAt": "2025-01-12T15:28:27Z",
+    "tags": "Human Resources / Administration > HR Manager",
+    "pay": "$55,000 - $80,000AUD",
+    "description": "We are currently recruiting on behalf of our client, Gr8phics, a renowned Mint specializing in collector coins and corporate activities. Gr8phics is seeking a creative and dynamic Junior Graphic Designer to join their team and contribute to the development of packaging, promotional materials, exhibition graphics, and reports.",
+    "responsibilities": [
+      {
+        "title": "Process Improvement and Design Innovation",
+        "details": [
+          "Contribute to the continuous improvement of design processes and practices.",
+          "Identify and incorporate current design trends to enhance the team's creative output."
+        ]
+      },
+      {
+        "title": "Collaborative Design Development",
+        "details": [
+          "Work closely with the Lead Designer, design team, internal and external clients, and suppliers.",
+          "Assist in the conceptualization, design, and production of diverse materials, including packaging, promotional items, exhibition graphics, and reports."
+        ]
+      },
+      {
+        "title": "Creative Design Solutions",
+        "details": [
+          "Produce creative design solutions while applying technical skills to ensure suitability for print and/or digital formats."
+        ]
+      },
+      {
+        "title": "Print Coordination",
+        "details": [
+          "Assist the team in liaising with printers and suppliers.",
+          "Provide print specifications and meticulously check printers’ proofs."
+        ]
+      }
+    ],
+    "qualifications": [
+      "A relevant qualification in Graphic Design or a related field.",
+      "Familiarity with the Adobe Creative Suite of professional tools."
+    ],
+    "experience": [
+      "Suitable for recent graduates or designers with less than 5 years of experience."
+    ],
+    "security_clearance": [
+      "This position requires a baseline security clearance.",
+      "The successful applicant will be required to obtain and maintain a clearance at this level."
+    ],
+    "how_to_apply": [
+      "A current resume.",
+      "A one-page pitch describing how your skills meet the requirements of the role as detailed in the position description.",
+      "A current portfolio showcasing your design work."
+    ],
+    "equal_opportunity": "We are committed to creating a diverse and inclusive workplace. Gr8phics is an equal opportunity employer, and we look forward to welcoming qualified candidates to join their team. Apply now for the opportunity to contribute to the creative excellence of Gr8phics."
+  }
+]
